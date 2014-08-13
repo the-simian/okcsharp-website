@@ -1,7 +1,6 @@
-title: Code of Conduct
-date: 2014-08-13 01:47:12
-categories:
-- Code of Conduct
+title: code-of-conduct
+date: 2014-08-13 03:19:41
+comments: true
 ---
 
 # Code of Conduct
