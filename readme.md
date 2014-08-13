@@ -18,9 +18,20 @@ Posts are located in _posts. The easiest way to write a new one is simply to typ
 
 Go ahead and Make the post you want to make. If you dont like it we can delete it later, no big deal. Now, type ```hexo server```. Hexo starts on port (in this case 4000);
 
+When you have it like you like, do ```hexo generate``` this spits out all the static content.
+
+
+### Deploy
+
+Easy mode. When on the master branch, after you've merged in your changes: ```hexo deploy --generate``` 
+
+Boom. Its on gh pages here [http://techlahoma.github.io/okcsharp-website/](http://techlahoma.github.io/okcsharp-website/)
+
+
+
 ## If something goes wrong.
 
-Th magic words: ```hexo clean``` then ```hexo generate``` This will recreate all your public..everything.
+Th magic words: ```hexo clean``` then ```hexo generate``` This will recreate everything.
 
 ---
 Readme By : Jesse Harlin [ harlinjesse@gmail.com ]
