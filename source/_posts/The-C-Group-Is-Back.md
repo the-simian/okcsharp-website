@@ -1,12 +1,11 @@
 title: "The .Net Group Is Back"
 date: 2014-08-13 00:44:13
-comments: false
+comments: true
 tags: 
 - Oklahoma City
 - Dot Net
 - C#
 ---
-
 
 The .Net Group is coming back to Oklahoma City. It aspires to be the place where fellow .Net Developers can learn and experience fellowship with other .Net developers in the OKC area.
 
