@@ -20,6 +20,8 @@ Go ahead and Make the post you want to make. If you dont like it we can delete i
 
 When you have it like you like, do ```hexo generate``` this spits out all the static content.
 
+## Menu
+You can add a page with ```hexo new page "pagename"``` . You can add it to the menu by editing the _config.yml located in the metro-light folder
 
 ### Deploy
 
