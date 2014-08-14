@@ -5,15 +5,15 @@
 # Site
 title: OKC-Sharp
 subtitle: The Oklahoma City C# User Group
-description:
-author: 
-email: 
+description: The site for information related to the C#/.Net usergroup community in the Oklahoma City Area
+author: Jesse Harlin
+email: techlahoma@gmail.com
 language: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://techlahoma.github.io/okcsharp-website/
-root: /okcsharp-website/
+url: http://okcsharp.net
+root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
 archive_dir: archives
