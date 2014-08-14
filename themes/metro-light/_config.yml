@@ -1,7 +1,7 @@
 menu:
-  Home: /okcsharp-website/
-  Archives: /okcsharp-website/archives
-  About: /okcsharp-website/about
+  Home: /
+  Archives: /archives
+  About: /about
 
 widgets:
 - search
