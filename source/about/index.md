@@ -11,8 +11,8 @@ Oklahoma City is an emerging technology hub with hundreds of .Net developers wor
 
 The usergroup will meet the First monday of every month at Prototek in downtown Oklahoma City.
 
-#Conatct
-For more informartion or to help out, please contact Matthew Reily via email <me@mattreily.com> or on twitter @matthewreily
+#Contact
+For more informartion or to help out, please contact Matthew Reily via email <me@mattreily.com> or on twitter matt@matthewreily
 
 #Meeting Location - Prototek
 Prototek
