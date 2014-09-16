@@ -13,6 +13,6 @@ Expect more updates forthcoming, including information about meeting times and u
 
 <!-- more -->
 
-If you're interested in volunteering, contact Matthey Riley, Jesse Harlin, or Amanada Harlin.
+If you're interested in volunteering, contact Matthey Reily, Jesse Harlin, or Amanada Harlin.
 
 We're excited to get started, and can't wait to see this awesome group thriving once again!
