@@ -1,9 +1,8 @@
-title: code-of-conduct
+title: Code of Conduct
 date: 2014-08-13 03:19:41
 comments: true
 ---
 
-# Code of Conduct
 - We expect all user group participants to help us realize a safe and positive experience for everyone. At all meetings and social events we expect everyone will:
 
 The CoC applies to all participants (attendees, speakers, organizers, volunteers, sponsors, and vendors) at official and unofficial events and any location where attendees may be congregating.

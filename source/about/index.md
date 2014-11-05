@@ -1,18 +1,14 @@
-title: about
+title: About OKC-Sharp
 date: 2014-08-13 02:12:09
 comments: true
 ---
-
-#OKC-Sharp
-
 We are a .Net centric usergroup located in Oklahoma City, Oklahoma. 
-
 Oklahoma City is an emerging technology hub with hundreds of .Net developers working in the area. 
-
-The usergroup will meet the First monday of every month at Prototek in downtown Oklahoma City.
+The usergroup meets the first monday of every month at Prototek in downtown Oklahoma City.
 
 #Contact
-For more informartion or to help out, please contact Matthew Reily via email <me@mattreily.com> or on twitter matt@matthewreily
+Our current group leader is Matthew Reily.
+For more informartion or to help out, please contact him via email <matt@okcsharp.net> or on twitter @matthewreily
 
 #Meeting Location - Prototek
 Prototek
