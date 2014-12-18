@@ -1,6 +1,6 @@
 layout: post
 title: "Meeting: January 5 - Bring Your Own Tools - ASP.NET vNext Goes Cross-Platform"
-date: 2014-12-01 16:18:27
+date: 2014-12-18 16:18:27
 tags: 
 - ASP.NET
 - vNext
