@@ -14,9 +14,9 @@ post_asset_folder: true
 
 
 ##About
-"It would be nice if..." those magical words customers like to say at the end of a project. In our case the customer wanted a mobile app, something we had no plans to build; to go along with the web application we just created. For many development teams this would require extra meetings, and a longer backlog. But because we have Xamarin Forms, that was not the case. Using Xamarin and their forms library, our team is able share UI code on every mobile device platform with familiar languages like C# and Xaml. 
+"It would be nice if..." those magical words customers like to say at the end of a project. In our case the customer wanted a mobile app, something we had no plans to build; to go along with the web application we just created. For many development teams this would require extra meetings, and a longer backlog. But because we have Xamarin Forms, that was not the case. Using Xamarin and their forms library, our team is able share UI code on every mobile device platform with familiar languages like C# and Xaml.
 
-Join Tim Sneed as he discusses how he and his team surprised their customer by building three 
+Join Tim Sneed as he discusses how he and his team surprised their customer by building three
 native mobile applications in an afternoon.
 
 
@@ -38,8 +38,8 @@ Prototek
 Oklahoma City, Oklahoma
 73101
 
-<script 
-type="text/javascript" 
+<script
+type="text/javascript"
 src="http://maps.google.com/maps/api/js?sensor=false"
 ></script>
 <style>
@@ -50,8 +50,8 @@ src="http://maps.google.com/maps/api/js?sensor=false"
 
 .speaker-headshot {
   float: left;
-  
-  padding: 5px 100% 5px 0px; 
+
+  padding: 5px 100% 5px 0px;
 }
 
 </style>
@@ -59,7 +59,7 @@ src="http://maps.google.com/maps/api/js?sensor=false"
 <div style="overflow:hidden;height:200px;width:900px;">
   <div id="gmap_canvas" style="height:200px;width:900px;"></div>
 </div>
-<script type="text/javascript"> 
+<script type="text/javascript">
 function init_map() {
     var myOptions = {
         zoom: 14,

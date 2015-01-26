@@ -1,7 +1,7 @@
 layout: post
 title: "Meeting: January 5 - Bring Your Own Tools - ASP.NET vNext Goes Cross-Platform"
 date: 2014-12-18 16:18:27
-tags: 
+tags:
 - ASP.NET
 - vNext
 - Open Source
@@ -9,7 +9,7 @@ post_asset_folder: true
 ---
 
 ###Monday
-###January 5, 2014
+###January 5, 2015
 ####11:30 a.m.
 ####@Prototek
 
@@ -32,8 +32,8 @@ Prototek
 Oklahoma City, Oklahoma
 73101
 
-<script 
-type="text/javascript" 
+<script
+type="text/javascript"
 src="http://maps.google.com/maps/api/js?sensor=false"
 ></script>
 <style>
@@ -44,8 +44,8 @@ src="http://maps.google.com/maps/api/js?sensor=false"
 
 .speaker-headshot {
   float: left;
-  
-  padding: 5px 100% 5px 0px; 
+
+  padding: 5px 100% 5px 0px;
 }
 
 </style>
@@ -53,7 +53,7 @@ src="http://maps.google.com/maps/api/js?sensor=false"
 <div style="overflow:hidden;height:200px;width:900px;">
   <div id="gmap_canvas" style="height:200px;width:900px;"></div>
 </div>
-<script type="text/javascript"> 
+<script type="text/javascript">
 function init_map() {
     var myOptions = {
         zoom: 14,
