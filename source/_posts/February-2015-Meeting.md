@@ -23,7 +23,9 @@ What is this IoT thing I keep hearing about? How can I get started making these 
 
 ### Matthew Reily
 #### Software Architect @ Interworks, Inc
-![Matthew Reily](../images/Matthew_Reily.jpg)
+![](../images/Matthew_Reily.jpg)
+
+{% img speaker-headshot /images/Matthew_Reily.jpg  "Matthew Reily" "Matthew Reily" %}
 
 Matthew Reily is an aspiring software craftsman who has a deep passion for learning and discussing new development technologies and practices. Matthew has worked diligently sharpening his skills for the past 15 years and has worn many hats. He has helped develop and deliver world class software, managed a couple of DevOps teams, and even spent a few years running his own consulting company. He loves to spending time with his family, running ultra-marathons, and working on his next IoT projects. Matthew is currently perfecting his craft as a software architect for InterWorks, Inc.
 
