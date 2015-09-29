@@ -25,15 +25,14 @@ You can add a page with ```hexo new page "pagename"``` . You can add it to the m
 
 ### Deploy
 
-Easy mode. When on the master branch, after you've merged in your changes: ```hexo deploy --generate``` 
+Super Duper Easy mode. Just merge to master and push. The continuous integration server handles the rest.
 
 Boom. Its on gh pages here [http://techlahoma.github.io/okcsharp-website/](http://techlahoma.github.io/okcsharp-website/)
 
 
-
 ## If something goes wrong.
 
-Th magic words: ```hexo clean``` then ```hexo generate``` This will recreate everything.
+The magic words: ```hexo clean``` then ```hexo generate``` This will recreate everything.
 
 ---
 Readme By : Jesse Harlin [ harlinjesse@gmail.com ]
