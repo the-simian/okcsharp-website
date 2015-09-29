@@ -8,23 +8,23 @@ tags:
 post_asset_folder: true
 ---
 
-###Monday
-###May 4th, 2015
-####11:30 a.m.
-####@Prototek
+### Monday
+### May 4th, 2015
+#### 11:30 a.m.
+#### @Prototek
 
 
-##About
+## About
 Lightning Talks are a really fun event we put on every 3 months. Community members have 5 to 10 minutes to talk about .NET or topics related to .NET technologies. We give preference to new speakers to strengthen our community.
 
 We still need Speakers! Please contact [Matthew Reily](mailto:matt@okcsharp.net) if you are interested in this opportunity.
 
 <!-- more -->
-##Speakers
+## Speakers
 
 You! Seriously though, if you are interested in giving a talk at this Lightning Talk, please email [Matthew Reily](mailto:matt@okcsharp.net)!
 
-##Prototek
+## Prototek
 Prototek
 401 NW 10th,
 Oklahoma City, Oklahoma

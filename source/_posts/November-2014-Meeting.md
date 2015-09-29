@@ -7,13 +7,13 @@ tags:
 post_asset_folder: true
 ---
 
-###Monday
-###November 3, 2014
-####11:30 a.m.
-####@Prototek
+### Monday
+### November 3, 2014
+#### 11:30 a.m.
+#### @Prototek
 
 
-##About
+## About
 "It would be nice if..." those magical words customers like to say at the end of a project. In our case the customer wanted a mobile app, something we had no plans to build; to go along with the web application we just created. For many development teams this would require extra meetings, and a longer backlog. But because we have Xamarin Forms, that was not the case. Using Xamarin and their forms library, our team is able share UI code on every mobile device platform with familiar languages like C# and Xaml.
 
 Join Tim Sneed as he discusses how he and his team surprised their customer by building three
@@ -22,7 +22,7 @@ native mobile applications in an afternoon.
 
 <!-- more -->
 
-##Speaker  
+## Speaker  
 
 
 
@@ -32,7 +32,7 @@ native mobile applications in an afternoon.
 {% img speaker-headshot /images/TimSneed.jpg  "Tim Sneed" %}
 
 
-##Prototek
+## Prototek
 Prototek
 401 NW 10th,
 Oklahoma City, Oklahoma

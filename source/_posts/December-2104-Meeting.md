@@ -5,20 +5,20 @@ tags:
 post_asset_folder: true
 ---
 
-###Monday
-###December 1, 2014
-####11:30 a.m.
-####@Prototek
+### Monday
+### December 1, 2014
+#### 11:30 a.m.
+#### @Prototek
 
 
-##About
+## About
 This is our 1st Installment of Community Lightning Talks. Never heard of a lightning talk? Here is what’s up:
 
 Lightning Talks are really fun. They are an open forum where our members can get up and talk about what they want. The talks need to be short - generally 5-10 minutes. You can cover anything that is .NET, or related to .NET. You can talk about a problem you’ve solved, a tool you like, a cool blog post you read, something you’re working on now, or pretty much any other way you’re using .NET to achieve your goals.
 
 <!-- more -->
 
-##Prototek
+## Prototek
 Prototek
 401 NW 10th,
 Oklahoma City, Oklahoma

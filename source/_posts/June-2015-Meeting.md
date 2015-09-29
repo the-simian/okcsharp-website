@@ -8,17 +8,17 @@ tags:
 post_asset_folder: true
 ---
 
-###Monday
-###June 1st, 2015
-####11:30 a.m.
-####@Prototek
+### Monday
+### June 1st, 2015
+#### 11:30 a.m.
+#### @Prototek
 
 
-##About
+## About
 There have been some major changes in the past 2 months with the release of Visual Studio 2015 RC.  We will take a look at some of the new exciting features within VS as well as dive into what ASP.NET 5 development looks like. 
 
 <!-- more -->
-##Speaker
+## Speaker
 
 ### Matthew Reily
 #### Software Architect @ Interworks, Inc
@@ -26,7 +26,7 @@ There have been some major changes in the past 2 months with the release of Visu
 
 Matthew Reily is an aspiring software craftsman who has a deep passion for learning and discussing new development technologies and practices. Matthew has worked diligently sharpening his skills for the past 15 years and has worn many hats. He has helped develop and deliver world class software, managed a couple of DevOps teams, and even spent a few years running his own consulting company. He loves to spending time with his family, running ultra-marathons, and working on his next IoT projects. Matthew is currently perfecting his craft as a software architect for InterWorks, Inc.
 
-##Prototek
+## Prototek
 Prototek
 401 NW 10th,
 Oklahoma City, Oklahoma

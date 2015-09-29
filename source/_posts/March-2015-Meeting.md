@@ -8,17 +8,17 @@ tags:
 post_asset_folder: true
 ---
 
-###Monday
-###March 2, 2015
-####11:30 a.m.
-####@Prototek
+### Monday
+### March 2, 2015
+#### 11:30 a.m.
+#### @Prototek
 
 
-##About
+## About
 Come see the awesome and powerful new features that are currently available in Preview on Microsoft's Computing Platform - Azure - including Machine Learning, DocumentDb, Search and more!
 
 <!-- more -->
-##Speaker
+## Speaker
 
 ### David Walker
 #### Sitecore MVP, Sitecore Architect, XCentium.com
@@ -28,7 +28,7 @@ David Walker is a Sitecore Architect for XCentium. He has over 20 years' experie
 
 Recently he has focused on a wide range of newer technologies, including: Azure, AppFabric, MEF (Managed Extensibility Framework), SharePoint, WindowsPhone and Windows8/WindowsStore applications. He has been using WCF (Windows Communication Foundation) and WPF (Windows Presentation Foundation) since the first Beta release back in 2005/2006!
 
-##Prototek
+## Prototek
 Prototek
 401 NW 10th,
 Oklahoma City, Oklahoma
