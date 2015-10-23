@@ -1,3 +1,10 @@
+test:
+  override:
+    - npm install -g hexo-cli
+    - hexo server:
+        background: true
+    - sleep 2
+    - phantomjs ./screenshots.js
 deployment:
   production:
     branch: master
@@ -8,4 +15,7 @@ deployment:
       - rm -rf .deploy_git/
       - hexo clean
       - hexo generate
-      - hexo deploy --silent
+      - hexo deploy
+notify:
+  webhooks:
+    - url: https://damp-castle-3334.herokuapp.com/pr-build-completion
