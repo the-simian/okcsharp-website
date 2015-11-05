@@ -1,5 +1,5 @@
 title: post
-title: "Meeting: November 7th Lightning talks"
+title: "Meeting: December 7th Lightning talks"
 date: 2015-12-07 11:30:00
 tags:
 - lightning
