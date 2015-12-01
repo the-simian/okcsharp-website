@@ -16,12 +16,16 @@ post_asset_folder: true
 Lightning talks is a fantastic way to introduce our community to developers and allow developers the capability to share their passion. Community members have 5-15 minutes to present on a topic relating to .NET development. We give preference to new speakers to help strengthen and grow our community.
 
 <!-- more -->
-## Speaker
+##Speakers
 
-### YOU!
-#### Awesome community developer
+Dale Spoonemore - Test expansion software
 
-If you are interested in speaking, please reach out to us by contacting the organizers or tweeting us at @OKCSharp with your topic. 
+Robert Cook - Philosophies and Standards
+
+Wil Isaacs - OWIN and Katana
+
+
+We are still looking for another speaker or two. If you are interested in speaking, please reach out to us by contacting the organizers or tweeting us at @OKCSharp with your topic. 
 
 ## Prototek
 Prototek
