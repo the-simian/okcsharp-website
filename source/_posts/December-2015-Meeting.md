@@ -16,7 +16,7 @@ post_asset_folder: true
 Lightning talks is a fantastic way to introduce our community to developers and allow developers the capability to share their passion. Community members have 5-15 minutes to present on a topic relating to .NET development. We give preference to new speakers to help strengthen and grow our community.
 
 <!-- more -->
-##Speakers
+# Speakers
 
 Dale Spoonemore - Test expansion software
 
@@ -24,8 +24,9 @@ Robert Cook - Philosophies and Standards
 
 Wil Isaacs - OWIN and Katana
 
+Chris Humphreys - Entity Framework Performance
 
-We are still looking for another speaker or two. If you are interested in speaking, please reach out to us by contacting the organizers or tweeting us at @OKCSharp with your topic. 
+We are still looking for another speaker. If you are interested in speaking, please reach out to us by contacting the organizers or tweeting us at @OKCSharp with your topic. 
 
 ## Prototek
 Prototek
