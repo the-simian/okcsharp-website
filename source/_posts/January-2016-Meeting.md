@@ -1,32 +1,26 @@
 title: post
-title: "Meeting: December 7th Lightning talks"
-date: 2015-12-07 11:30:00
+title: "Meeting: January 4th Planning Meeting/Social"
+date: 2016-01-04 11:30:00
 tags:
-- lightning
+- planning
+- social
 post_asset_folder: true
 ---
 
 ### Monday
-### December 7th, 2015
+### January 4th, 2016
 #### 11:30 a.m.
 #### @Prototek
 
 
 ## About
-Lightning talks is a fantastic way to introduce our community to developers and allow developers the capability to share their passion. Community members have 5-15 minutes to present on a topic relating to .NET development. We give preference to new speakers to help strengthen and grow our community.
+Come join us Monday January 4th where we will have an open discussion about making 2016 our best year yet.  Bring your ideas for speaker topics, technical workshops, or anything that will help us bring value to our members.
 
-<!-- more -->
-# Speakers
+There is NO OKC-Sharp without it's awesome members, so come out and help us make this group the best it can be.
 
-Dale Spoonemore - Test expansion software
+This will also be a great time to network with other developers and see what others are doing in our communtiy.
 
-Robert Cook - Philosophies and Standards
-
-Wil Isaacs - OWIN and Katana
-
-Chris Humphreys - Entity Framework Performance
-
-We are still looking for another speaker. If you are interested in speaking, please reach out to us by contacting the organizers or tweeting us at @OKCSharp with your topic. 
+And finally, free pizza!
 
 ## Prototek
 Prototek
@@ -77,3 +71,4 @@ function init_map() {
       }
       google.maps.event.addDomListener(window, 'load', init_map);
       </script>
+
