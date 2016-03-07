@@ -1,4 +1,4 @@
-title: post
+layout: post
 title: "Meeting: January 4th Planning Meeting/Social"
 date: 2016-01-04 11:30:00
 tags:
