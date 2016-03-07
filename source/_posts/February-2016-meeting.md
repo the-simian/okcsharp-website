@@ -1,4 +1,4 @@
-title: post
+layout: post
 title: "Intro to Continuous Delivery with Ryan Hoegg"
 date: 2016-02-01 11:30:00
 tags:
