@@ -1,4 +1,4 @@
-title: post
+layout: post
 title: "Meeting: March 7th Round Table"
 date: 2016-03-07 11:30:00
 tags:
