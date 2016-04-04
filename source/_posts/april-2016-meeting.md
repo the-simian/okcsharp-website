@@ -13,8 +13,15 @@ post_asset_folder: true
 
 
 ## Lightning Talks!
+Lightning talks is a fantastic way to introduce our community to developers and allow developers the capability to share their passion. Community members have 5-15 minutes to present on a topic relating to .NET development. We give preference to new speakers to help strengthen and grow our community.
 
-Additional details are still being discussed, so more information will be forth coming.
+This months speakers:
+
+Joe Shelton - Joe Shelton has been a leader at Robert Half Technology in OKC and has placed Software Developers in the OKC market for the last 4 years. Joe will be giving a presentation on the Robert Half Salary Guide as well as what he and his team are seeing in the constantly evolving job market.
+
+Wil Isaacs - Wil Isaacs is a software developer at Surgical Care Affiliates with a particular interest in DevOps topics. He likes to do game development and brew beer in his free time.
+
+David Miller - TBA
 
 ## Prototek
 Prototek
