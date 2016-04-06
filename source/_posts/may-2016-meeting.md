@@ -4,6 +4,8 @@ date: 2016-05-02 11:30:00
 tags:
 - xamarin
 post_asset_folder: true
+categories:
+- show_map
 ---
 
 ### Monday
