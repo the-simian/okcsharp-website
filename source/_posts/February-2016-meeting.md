@@ -1,26 +1,28 @@
 layout: post
-title: "Meeting: January 4th Planning Meeting/Social"
-date: 2016-01-04 11:30:00
+title: "Intro to Continuous Delivery with Ryan Hoegg"
+date: 2016-02-01 11:30:00
 tags:
-- planning
-- social
+- continuous deployment
+- devops
 post_asset_folder: true
 ---
 
 ### Monday
-### January 4th, 2016
+### February 1st, 2016
 #### 11:30 a.m.
 #### @Prototek
 
 
 ## About
-Come join us Monday January 4th where we will have an open discussion about making 2016 our best year yet.  Bring your ideas for speaker topics, technical workshops, or anything that will help us bring value to our members.
+Continuous delivery is a central theme in the DevOps movement, and certainly a central component of the culture. It is the set of engineering techniques, practices, processes, and tools for releasing changes to software services frequently and reliably.
 
-There is NO OKC-Sharp without it's awesome members, so come out and help us make this group the best it can be.
+We'll review the concepts involved in CD, take a look a working CD pipeline for an example application, and discuss how this could apply to other projects.
 
-This will also be a great time to network with other developers and see what others are doing in our communtiy.
+<!-- more -->
+## Speaker
 
-And finally, free pizza!
+### Ryan Hoegg
+Ryan Hoegg still thinks software is one of the coolest things mankind has ever come up with. He serves as Vice President of Techlahoma, partly to help get lots of other people excited about it. His day job is Hoegg Software, Co., a software consulting startup in OKC.
 
 ## Prototek
 Prototek
@@ -71,4 +73,3 @@ function init_map() {
       }
       google.maps.event.addDomListener(window, 'load', init_map);
       </script>
-
