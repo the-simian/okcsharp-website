@@ -1,26 +1,21 @@
 layout: post
-title: "Meeting: January 4th Planning Meeting/Social"
-date: 2016-01-04 11:30:00
+title: "Meeting: Xamarin’s FREE! Quick let’s build something with David Roberts"
+date: 2016-05-02 11:30:00
 tags:
-- planning
-- social
+- xamarin
 post_asset_folder: true
 ---
 
 ### Monday
-### January 4th, 2016
+### May 2nd, 2016
 #### 11:30 a.m.
 #### @Prototek
 
 
-## About
-Come join us Monday January 4th where we will have an open discussion about making 2016 our best year yet.  Bring your ideas for speaker topics, technical workshops, or anything that will help us bring value to our members.
+## Xamarin’s FREE! Quick let’s build something
+Now that we can all get Xamarin with Visual Studio, even the Community edition let’s see what this thing can do. You will get to see how to start building an Android and an IOS app using Visual Studio with the Xamarin Extension. This isn’t Cordova, this is C# to a native mobile app. Come see how you can make your own mobile app right inside Visual Studio.
 
-There is NO OKC-Sharp without it's awesome members, so come out and help us make this group the best it can be.
-
-This will also be a great time to network with other developers and see what others are doing in our communtiy.
-
-And finally, free pizza!
+## Speaker: David Roberts
 
 ## Prototek
 Prototek
@@ -71,4 +66,3 @@ function init_map() {
       }
       google.maps.event.addDomListener(window, 'load', init_map);
       </script>
-

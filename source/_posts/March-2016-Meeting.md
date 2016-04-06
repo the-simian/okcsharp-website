@@ -1,26 +1,21 @@
 layout: post
-title: "Meeting: January 4th Planning Meeting/Social"
-date: 2016-01-04 11:30:00
+title: "Meeting: March 7th Round Table"
+date: 2016-03-07 11:30:00
 tags:
-- planning
-- social
+- round table
 post_asset_folder: true
 ---
 
 ### Monday
-### January 4th, 2016
+### March 7th, 2016
 #### 11:30 a.m.
 #### @Prototek
 
 
 ## About
-Come join us Monday January 4th where we will have an open discussion about making 2016 our best year yet.  Bring your ideas for speaker topics, technical workshops, or anything that will help us bring value to our members.
+We're doing something a bit different this month. We are going to be engaging with the amazing users that attend our group. With a loosely guided discussion, we plan to review and talk about all things tech.
 
-There is NO OKC-Sharp without it's awesome members, so come out and help us make this group the best it can be.
-
-This will also be a great time to network with other developers and see what others are doing in our communtiy.
-
-And finally, free pizza!
+Additional details are still being discussed, so more information will be forth coming.
 
 ## Prototek
 Prototek
@@ -71,4 +66,3 @@ function init_map() {
       }
       google.maps.event.addDomListener(window, 'load', init_map);
       </script>
-

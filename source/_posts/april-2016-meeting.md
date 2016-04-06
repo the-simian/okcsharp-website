@@ -1,26 +1,27 @@
 layout: post
-title: "Meeting: January 4th Planning Meeting/Social"
-date: 2016-01-04 11:30:00
+title: "Meeting: April 4th Lightning Talks"
+date: 2016-04-04 11:30:00
 tags:
-- planning
-- social
+- lightning talks
 post_asset_folder: true
 ---
 
 ### Monday
-### January 4th, 2016
+### April 4th, 2016
 #### 11:30 a.m.
 #### @Prototek
 
 
-## About
-Come join us Monday January 4th where we will have an open discussion about making 2016 our best year yet.  Bring your ideas for speaker topics, technical workshops, or anything that will help us bring value to our members.
+## Lightning Talks!
+Lightning talks is a fantastic way to introduce our community to developers and allow developers the capability to share their passion. Community members have 5-15 minutes to present on a topic relating to .NET development. We give preference to new speakers to help strengthen and grow our community.
 
-There is NO OKC-Sharp without it's awesome members, so come out and help us make this group the best it can be.
+This months speakers:
 
-This will also be a great time to network with other developers and see what others are doing in our communtiy.
+Joe Shelton - Joe Shelton has been a leader at Robert Half Technology in OKC and has placed Software Developers in the OKC market for the last 4 years. Joe will be giving a presentation on the Robert Half Salary Guide as well as what he and his team are seeing in the constantly evolving job market.
 
-And finally, free pizza!
+Wil Isaacs - Wil Isaacs is a software developer at Surgical Care Affiliates with a particular interest in DevOps topics. He likes to do game development and brew beer in his free time.
+
+David Miller - TBA
 
 ## Prototek
 Prototek
@@ -71,4 +72,3 @@ function init_map() {
       }
       google.maps.event.addDomListener(window, 'load', init_map);
       </script>
-
