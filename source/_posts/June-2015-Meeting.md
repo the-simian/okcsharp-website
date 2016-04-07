@@ -1,4 +1,4 @@
-title: post
+layout: post
 title: "Meeting: June 1st - Getting Started with Visual Studio 2015 RC and ASP.NET 5"
 date: 2015-06-01 11:30:00
 tags:
