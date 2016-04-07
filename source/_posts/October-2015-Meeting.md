@@ -1,4 +1,4 @@
-title: post
+layout: post
 title: "Meeting: October 5th - Opinionated Git Workflows and the People Who Love Them"
 date: 2015-10-05 11:30:00
 tags:
