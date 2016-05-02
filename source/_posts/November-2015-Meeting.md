@@ -1,4 +1,4 @@
-title: post
+layout: post
 title: "Meeting: November 2nd - Adding intelligence to your applications with Project Oxford"
 date: 2015-11-02 11:30:00
 tags:
