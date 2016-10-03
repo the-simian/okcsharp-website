@@ -5,6 +5,7 @@ tags:
 - lightning talks
 post_asset_folder: true
 showPrototekMap: false
+showStarSpaceMap: true
 showMeetupTime: true
 ---
 
