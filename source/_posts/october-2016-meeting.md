@@ -9,7 +9,7 @@ showStarSpaceMap: true
 showMeetupTime: true
 ---
 
-This month will be lightning talks and in the new building and so has been deferred one week to the 10th!
+This month will be lightning talks and in the new building at Star Space 46 and so has been deferred one week to the 10th!
 
 Lightning talks are a fantastic way to introduce our community to developers and allow developers the capability to share their passion. Community members have 5-15 minutes to present on a topic relating to .NET development. We give preference to new speakers to help strengthen and grow our community.
 
