@@ -1,6 +1,6 @@
 layout: post
 title: "Meeting: NodeJS for .Net Developers"
-date: 2016-10-07 11:30:00
+date: 2016-11-07 11:30:00
 tags:
 - node
 post_asset_folder: true
